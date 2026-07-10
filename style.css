@@ -1,0 +1,19 @@
+.grimoire-panel { margin-top: 6px; }
+.grimoire-header { display: flex; align-items: center; justify-content: space-between; cursor: pointer; }
+.grimoire-content { padding: 8px 2px 4px; }
+.grimoire-section { margin-bottom: 8px; }
+.grimoire-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.7;
+  margin: 8px 0 3px;
+}
+.grimoire-input { width: 100%; margin-bottom: 4px; }
+.grimoire-textarea { min-height: 60px; resize: vertical; }
+.grimoire-row { display: flex; align-items: center; gap: 8px; margin-top: 6px; flex-wrap: wrap; }
+.grimoire-btn { white-space: nowrap; }
+.grimoire-btn-primary { font-weight: 600; }
+.grimoire-status { font-size: 12px; }
+.grimoire-checkbox { display: flex; align-items: center; gap: 4px; font-size: 12px; cursor: pointer; }
+.grimoire-hr { opacity: 0.2; margin: 10px 0; }
